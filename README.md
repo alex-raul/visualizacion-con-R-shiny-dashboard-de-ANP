@@ -34,6 +34,7 @@ Puedes acceder a la aplicación directamente aquí:
 📸 **![Graficos por unidad operativa](capturas/graficos_unidad_operativa.png)**
 📸 **![Prediccion](capturas/prediccion.png)**
 
+Desarrollado en 2022
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT.
